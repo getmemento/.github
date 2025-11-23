@@ -19,7 +19,7 @@ Early stages. Building in the open where it makes sense. If you're interested, w
 ## Connect
 
 - **X**: [@getmemento](https://x.com/getmementoai)
-- **Bluesky**: [@getmemento](https://bsky.app/profile/getmemento.ai.bsky.social)
+- **Bluesky**: [@getmemento](https://bsky.app/profile/getmementoai.bsky.social)
 
 ---
 
