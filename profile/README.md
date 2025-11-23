@@ -23,8 +23,8 @@ We're in the early stages. Building in the open where it makes sense, keeping qu
 ## Connect
 
 - **Web**: Coming soon
-- **X**: [@getmemento](https://x.com/getmemento)
-- **Bluesky**: [@getmemento](https://bsky.app/profile/getmemento.bsky.social)
+- **X**: [@getmemento](https://x.com/getmementoai)
+- **Bluesky**: [@getmemento](https://bsky.app/profile/getmemento.ai.bsky.social)
 
 ---
 
